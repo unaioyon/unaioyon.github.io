@@ -1,15 +1,15 @@
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Unai Oyón-Lerga
+position: Graduate Student
+affiliation: Paris School of Economics (PSE)
+email: unaioyon99 (at) gmail.com
 keywords: minimal academic
-google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
-linkedin: https://www.linkedin.com/
-avatar: ./assets/img/avatar.png
+linkedin: https://www.linkedin.com/in/unaioyon/
+github_link: https://github.com/unaioyon
+twitter: https://twitter.com/unaioyon
+avatar: ./assets/img/Foto perfil.jpeg
 google_analytics: UA-111540567-4
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/Foto perfil.jpeg
+favicon_dark: ./assets/img/Foto perfil.jpeg
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light.yyliu.net/
 remote_theme: yaoyao-liu/minimal-light
