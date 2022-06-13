@@ -14,6 +14,7 @@ You can find my updated CV [here](./assets/pdf/OYON_Unai_CV_Jan_2022.pdf).
 
 ## education
 
+- 2021-now &nbsp;&nbsp;&nbsp; MRes in Applied Economics: Public Policy and Development, *Paris School of Economics*
 - 2017-2021 &nbsp;&nbsp;&nbsp; BSc in Economics, *Universitat Pompeu Fabra (Barcelona)*
 
 ## Publications
