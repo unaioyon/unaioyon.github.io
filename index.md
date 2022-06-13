@@ -6,17 +6,15 @@ layout: homepage
 
 Graduate Student in Applied Economics (Public Policy & Development) at [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) and Research Assistant in Urban Economics at [Universitat Autònoma de Barcelona](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html) for the project [BUILDING CITIES](https://fundacionlacaixa.org/documents/10280/1781539/SR21-00068-miquel-angel-garcia.pdf). Previously, I obtained a BSc in Economics from [Universitat Pompeu Fabra](https://www.upf.edu/home), with a stay at [Sciences Po Paris](https://www.sciencespo.fr/en/home) and worked as a Health Economist at the [CRES-UPF](https://www.upf.edu/web/cres) in Barcelona.
 
-## Research Interests
+You can find my updated CV [here](./assets/pdf/OYON_Unai_CV_Jan_2022.pdf).
+## research interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Urban Economics:** Geographic Data Science, Geographic Data Visualization, Spatial Econometrics
+- **Applied Econometrics:** Policy Evaluation, Development Economics
 
-## News
+## education
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- 2017-2021 &nbsp;&nbsp;&nbsp; BSc in Economics, *Universitat Pompeu Fabra (Barcelona)*
 
 ## Publications
 
