@@ -4,7 +4,7 @@ layout: homepage
 
 ## about
 
-I am a Ph.D. student at Stonks University
+Graduate Student in Applied Economics (Public Policy & Development) at [Paris School of Economics](https://www.parisschoolofeconomics.eu/en/) and Research Assistant in Urban Economics at [Universitat Autònoma de Barcelona](https://www.uab.cat/web/universitat-autonoma-de-barcelona-1345467954774.html) for the project [BUILDING CITIES](https://fundacionlacaixa.org/documents/10280/1781539/SR21-00068-miquel-angel-garcia.pdf). Previously, I obtained a BSc in Economics from [Universitat Pompeu Fabra](https://www.upf.edu/home), with a stay at [Sciences Po Paris](https://www.sciencespo.fr/en/home) and worked as a Health Economist at the [CRES-UPF](https://www.upf.edu/web/cres) in Barcelona.
 
 ## Research Interests
 
