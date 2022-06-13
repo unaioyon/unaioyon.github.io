@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## about
 
 I am a Ph.D. student at Stonks University
 
