@@ -10,6 +10,7 @@ You can find my updated CV [here](./assets/pdf/OYON_Unai_CV_Jan_2022.pdf).
 ## research interests
 
 - **Urban Economics:** Geographic Data Science, Geographic Data Visualization, Spatial Econometrics
+- **Health Economics:** Cost-Effectiveness Analysis, Pharmacoeconomics
 - **Applied Econometrics:** Policy Evaluation, Development Economics
 
 ## education
