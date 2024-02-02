@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Welcome!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -235,39 +235,39 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Please, get in touch for anything related to Econometrics!
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: unai.oyon@psemail.eu
+      # phone: 888 888 88 88
+      # appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: 48 Boulevard Jourdan
+        city: Paris
+        #region: CA
+        postcode: '75014'
+        country: France
+        country_code: FR
+      directions: Enter Building Oikos and take the stairs/elevator to Office R4-54 on the 4th floor.
+      # office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '48.822484818778754'
+        longitude: '2.330817762738885'  
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
           link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+      #  - icon: skype
+      #    icon_pack: fab
+      #    name: Skype Me
+      #    link: 'skype:echo123?call'
+      #  - icon: video
+      #    icon_pack: fas
+      #    name: Zoom Me
+      #    link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

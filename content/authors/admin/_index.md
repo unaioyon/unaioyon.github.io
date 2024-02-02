@@ -49,43 +49,43 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+# skills:
+  # - name: Technical
+  #  items:
+  #    - name: Python
+  #      description: ''
+  #      percent: 80
+  #      icon: python
+  #      icon_pack: fab
+  #    - name: Data Science
+  #      description: ''
+  #      percent: 100
+  #      icon: chart-line
+  #      icon_pack: fas
+  #    - name: SQL
+  #      description: ''
+  #      percent: 40
+  #      icon: database
+  #      icon_pack: fas
+  #- name: Hobbies
+  #  color: '#eeac02'
+  #  color_border: '#f0bf23'
+  #  items:
+  #    - name: Hiking
+  #      description: ''
+  #      percent: 60
+  #      icon: person-hiking
+  #      icon_pack: fas
+  #    - name: Cats
+  #      description: ''
+  #      percent: 100
+  #      icon: cat
+  #      icon_pack: fas
+  #    - name: Photography
+  #      description: ''
+  #      percent: 80
+  #      icon: camera-retro
+  #      icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -95,6 +95,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:unai.oyon@psemail.eu'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/unaioyon
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/unaioyon
@@ -104,9 +107,6 @@ social:
   #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
    # icon_pack: fas
    # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/unaioyon
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/unaioyon/
@@ -122,6 +122,8 @@ social:
 highlight_name: true
 ---
 
-I am a PhD candidate in Economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/) under the supervision of [Luc Behaghel](https://www.parisschoolofeconomics.com/behaghel-luc/behaghel.htm). [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) is on my thesis committee.
+I am a PhD candidate in Economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/) and a teaching associate at [Sciences Po](sciencespo.fr) and [Université Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/).
+
+My main field of interest is Econometrics, with a focus on interactive fixed effect models and identification of individual treatment effects. I also work in Urban and Public Economics. My research endeavours are guided by [Luc Behaghel](https://www.parisschoolofeconomics.com/behaghel-luc/behaghel.htm) and [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/CV OYON LERGA Unai.pdf" "newtab" >}}CV{{< /staticref >}}.
