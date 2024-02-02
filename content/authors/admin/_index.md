@@ -110,15 +110,18 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/unaioyon/
+
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV OYON LERGA Unai.pdf
+  # - icon: cv
+   # icon_pack: ai
+   # link: uploads/CV OYON LERGA Unai.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a PhD candidate in Economics at the Paris School of Economics.
+I am a PhD candidate in Economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/) under the supervision of [Luc Behaghel](https://www.parisschoolofeconomics.com/behaghel-luc/behaghel.htm). [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/) is on my thesis committee.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/CV OYON LERGA Unai.pdf" "newtab" >}}CV{{< /staticref >}}.
