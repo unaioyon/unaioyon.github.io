@@ -39,7 +39,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: Paris School of Economics
-      year: 2021-
+      year: 2023-
     - course: MRes in Applied Economics (Public Policy and Development)
       institution: Paris School of Economics
       year: 2021-2023
@@ -122,7 +122,7 @@ social:
 highlight_name: true
 ---
 
-I am a PhD candidate in Economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/) and a teaching associate at [Sciences Po](sciencespo.fr) and [Université Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/).
+I am a PhD candidate in Economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/) and a teaching associate at [Sciences Po](https://www.sciencespo.fr/en/) and [Université Paris 1 Panthéon-Sorbonne](https://www.pantheonsorbonne.fr/).
 
 My main field of interest is Econometrics, with a focus on interactive fixed effect models and identification of individual treatment effects. I also work in Urban and Public Economics. My research endeavours are guided by [Luc Behaghel](https://www.parisschoolofeconomics.com/behaghel-luc/behaghel.htm) and [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/).
 
