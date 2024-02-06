@@ -126,4 +126,4 @@ I am a PhD candidate in Economics at the [Paris School of Economics](https://www
 
 My main field of interest is Econometrics, with a focus on interactive fixed effect models and identification of individual treatment effects. I also work in Urban and Public Economics. My research endeavours are guided by [Luc Behaghel](https://www.parisschoolofeconomics.com/behaghel-luc/behaghel.htm) and [Clément de Chaisemartin](https://sites.google.com/site/clementdechaisemartin/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/uploads/CV OYON LERGA Unai.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV OYON LERGA Unai.pdf" "newtab" >}}CV{{< /staticref >}}.
