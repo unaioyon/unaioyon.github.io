@@ -17,6 +17,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am a second year Ph.D. candidate in Econometrics and Economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/). My primary research fields are Econometrics and Labor Economics, with a particular interest in interactive fixed effects models and treatment effect heterogeneity. My projects are supervised by [Luc Behaghel (PSE)](https://www.parisschoolofeconomics.com/behaghel-luc/behaghel.htm) and [Clément de Chaisemartin (Sciences Po)](https://sites.google.com/site/clementdechaisemartin/). I am also a Fellow at [Future Policy Lab](https://www.futurepolicylab.com/equipo/), and I visited the [Bank of Spain](https://www.bde.es/wbe/en/) in summer 2024.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
