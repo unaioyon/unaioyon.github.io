@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I will be presenting at the PSE Applied Lunch Economics Seminar on March the 11th (2025) :books: :bangbang:
