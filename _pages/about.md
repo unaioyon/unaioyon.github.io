@@ -22,7 +22,7 @@ My primary research fields are Econometrics and Labor Economics, with a particul
 
 I am also a Fellow at [Future Policy Lab](https://www.futurepolicylab.com/equipo/), and I visited the [Bank of Spain](https://www.bde.es/wbe/en/) in summer 2024.
 
-Do not hesitate to reach out: unai.oyon [at] psemail [dot] eu.
+Do not hesitate to reach out: **unai.oyon [at] psemail [dot] eu**.
 
 [//]: # (This is a comment.) Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.  
 [//]: # (This is a comment.) Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.  
