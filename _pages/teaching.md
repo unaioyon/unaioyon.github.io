@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: I have experience teaching both undergraduate and graduate-level Econometrics and Statistics, as well as technical topics in Economics.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 **Paris School of Economics**
