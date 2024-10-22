@@ -13,7 +13,7 @@ nav_order: 2
 **1. Partially Indentified Causal Parameters in Interactive Fixed Effects Models** (draft available soon!).
 
 ### *Applied Economics*
-**1. Social Mobility in South Korea** (joint WORK with Sehyun Hong, Zhexun Mo and Li Yang).
+**1. Social Mobility in South Korea** (joint work with Sehyun Hong, Zhexun Mo and Li Yang).
 
 ## **Publications**
 ### *Applied Economics*
