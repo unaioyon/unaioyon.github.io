@@ -1,12 +1,18 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: I have experience teaching both undergraduate and graduate-level Econometrics and Statistics, as well as technical topics in Economics.
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**Paris School of Economics**
+* Advanced Econometrics (Graduate) - TA to Professor Martin Mugnier [24-25]
+* Econometrics 1 (Graduate) - TA to Professor Karen Macours [24-25]
 
-Organize your courses by years, topics, or universities, however you like!
+**Sciences Po**
+* Transdisciplinary Approaches to Inequality (Undergraduate) [23-24, 24-25]
+
+**Université Paris 1 Panthéon-Sorbonne**
+* Applied Statistics (Undergraduate) - TA to professor Raouf Zafri [23-24]
