@@ -12,13 +12,16 @@ nav_order: 2
 #### *Econometrics*
 * **Average Treatment Effects Conditional on Unobservables: A Welfare Maximization Approach.**
 
-* **Recovering Partially-Identified Causal Parameters in Difference-in-Differences using Optimal Transport** (draft available soon!).
+* **Recovering Partially-Identified Causal Parameters in Difference-in-Differences using Optimal Transport.**
 <!-- Added a span ID to update text dynamically -->
 <span class="toggle-link" id="toggle-text-abstract1" onclick="toggleAbstract('abstract1', 'toggle-text-abstract1')">[Show Abstract]</span>
-<p id="abstract1" class="abstract" style="display: none;">This is the abstract for Paper 1.</p>
+<p id="abstract1" class="abstract" style="display: none;">Some families of causal parameters are a function of the joint distribution of potential outcomes and thus can only be partially identified. Framing identification as an optimal transport problem, I construct sharp bounds that are valid even under arbitrary model misspecification. Both continuous and discrete covariates can be used to tighten the identified set, which does not inherit any bias from incorrect model specification. This approach requires a so-called distributional difference-in-differences assumption, which holds by construction in RCTs and can be defended in many nonexperimental settings with panel data. I finally study applications with real and simulated data.</p>
 
 #### *Applied Economics*
 * **Evaluating the Effect of Training Programs for the Unemployed: An Examiner Design Approach** (with [Luc Behaghel](https://www.parisschoolofeconomics.com/behaghel-luc/behaghel.htm), [Marc Gurgand](https://www.parisschoolofeconomics.eu/equipes/marc-gurgand/) and [Yagan Hazard](https://yaganhazard.github.io/)).
+<!-- Added a span ID to update text dynamically -->
+<span class="toggle-link" id="toggle-text-abstract2" onclick="toggleAbstract('abstract2', 'toggle-text-abstract2')">[Show Abstract]</span>
+<p id="abstract2" class="abstract" style="display: none;">We exploit the random allocation of caseworkers to job seekers in France---and the heterogeneity in caseworkers' propensity to place individuals in training programs---in order to build an instrument for entering a training program while unemployed. To alleviate threats to the exclusion restriction assumption, we are currently developing an identification approach combining (i) the intuition behind of so-called zero-first-stage'' falsification test, (ii) an identification-at-infinity argument and (iii) a single-index assumption imposed on caseworkers' direct impact on individuals' job finding rate (violating the exclusion restriction of the instrument). Our framework lends itself nicely to the use of machine-learning predictions in a first step to identify the zero-first-stage subgroups that are essential for our identification-at-infinity approach.</p>
 
 * **Social Mobility in South Korea** (with [Sehyun Hong](https://sites.google.com/view/sehyunhong/), [Zhexun Mo](https://sites.google.com/view/zhexunmo/home) and [Li Yang](https://sites.google.com/view/lyang/)).
 
@@ -29,9 +32,14 @@ nav_order: 2
 <!-- Added CSS for cursor pointer -->
 <style>
     .toggle-link {
-        color: blue;
+        color: var(--global-theme-color); /*@UNAI sets the color to the theme one */
         cursor: pointer;  /* Changes cursor to a pointer */
         text-decoration: underline;
+    }
+
+    /* Justify the abstract text */
+    .abstract {
+        text-align: justify; /* Ensures the text is justified */
     }
 </style>
 
@@ -49,6 +57,7 @@ nav_order: 2
         }
     }
 </script>
+
 
 
 

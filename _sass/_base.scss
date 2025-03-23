@@ -198,7 +198,7 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: "Roboto"; /* @UNAI modified from monospace (without "") */
 
     p {
       display: inline-block;
@@ -471,15 +471,19 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-// Footer
+// Footer @UNAI modified to make it smaller
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  font-size: 0.65rem; /* Made smaller */
+  position: fixed; /* Ensure it stays fixed */
+  bottom: 0;
+  width: 100%;
+  z-index: 1000; /* Keep it above other content */
 
   .container {
     color: var(--global-footer-text-color);
-    padding-top: 9px;
-    padding-bottom: 8px;
+    padding-top: 5px; /* Reduced padding */
+    padding-bottom: 5px; /* Reduced padding */
     text-align: center;
   }
 

@@ -2,10 +2,10 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: I have experience teaching both undergraduate and graduate-level Econometrics and Statistics, as well as technical topics in Economics.
 nav: true
 nav_order: 4
 ---
+I have experience teaching both undergraduate and graduate-level Econometrics and Statistics, as well as technical topics in Economics.
 
 **Paris School of Economics**
 * Advanced Econometrics (Graduate) - TA to Professor Martin Mugnier [24-25]
