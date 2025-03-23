@@ -16,23 +16,23 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "I have experience teaching both undergraduate and graduate-level Econometrics and Statistics, as well as technical topics in Economics.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "nav-music-curation",
-          title: "Music Curation",
-          description: "On top of my work on Econometrics, I enjoy exploring new musical directions and digging records! I am also a professionally-trained classical and jazz piano player on my free time.",
+          title: "Music curation",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/musiccuration/";
