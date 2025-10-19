@@ -16,11 +16,11 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a second year Ph.D. candidate in Econometrics and Economics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/). My projects are supervised by [Luc Behaghel (PSE)](https://www.parisschoolofeconomics.com/behaghel-luc/behaghel.htm) and [Clément de Chaisemartin (Sciences Po)](https://sites.google.com/site/clementdechaisemartin/).
+I am a Ph.D. candidate in Econometrics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/). My projects are supervised by [Luc Behaghel (PSE)](https://www.parisschoolofeconomics.com/behaghel-luc/behaghel.htm) and [Clément de Chaisemartin (Sciences Po)](https://sites.google.com/site/clementdechaisemartin/).
 
 My primary research fields are Econometrics and Labor Economics, with a particular interest in factor models, partial identification with panel data and optimal transport for identification. I also do applied research using French administrative data on the universe of unemployment spells.
 
-I will visit [CEMFI](https://cemfi.es/) in summer 2025, invited by [Manuel Arellano](https://www.cemfi.es/~arellano/). I am also a Fellow at [Future Policy Lab](https://www.futurepolicylab.com/equipo/), and I visited the [Bank of Spain](https://www.bde.es/wbe/en/) in summer 2024.
+I am currently visiting [Brown University](https://economics.brown.edu/) invited by [Toru Kitagawa](https://sites.google.com/brown.edu/torukitagawa). From February 2026, I will be visiting [Ashesh Rambachan](https://economics.mit.edu/people/faculty/ashesh-rambachan) at the [MIT](https://economics.mit.edu/).
 
 Do not hesitate to reach out: **unai.oyon [at] psemail [dot] eu**.
 
