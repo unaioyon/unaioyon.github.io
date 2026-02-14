@@ -16,7 +16,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-**I am currently visiting [Brown University](https://economics.brown.edu/) invited by [Toru Kitagawa](https://sites.google.com/brown.edu/torukitagawa). Starting in February 2026, I will be visiting [Ashesh Rambachan](https://economics.mit.edu/people/faculty/ashesh-rambachan) at the [MIT](https://economics.mit.edu/).**
+**I am currently visiting the Economics Department at MIT, invited by [Ashesh Rambachan](https://economics.mit.edu/people/faculty/ashesh-rambachan) at [MIT](https://economics.mit.edu/).**
 
 I am a Ph.D. candidate in Econometrics at the [Paris School of Economics](https://www.parisschoolofeconomics.eu/). My projects are supervised by [Luc Behaghel (PSE)](https://www.parisschoolofeconomics.com/behaghel-luc/behaghel.htm) and [Clément de Chaisemartin (Sciences Po)](https://sites.google.com/site/clementdechaisemartin/).
 
